@@ -1,3 +1,1 @@
-# .github
-
-Readme file for organization overview page
+Keeping university bonds alive, from graduation caps to career maps.
